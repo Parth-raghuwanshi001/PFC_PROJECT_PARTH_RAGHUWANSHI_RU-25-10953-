@@ -1,5 +1,6 @@
 **📌 Project Title**
-![Uploading image.png…]()
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/86bb3b43-d7e2-4d2d-a969-0ac963d0f626" />
+
 
 Danger Zone Detection System Using 2D Array
 
